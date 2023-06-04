@@ -1,4 +1,4 @@
-## Script to getting backup from postgres and restore
+## Script to getting backup/restore from postgresql
 
 # Setup:
     1) Install dependencies
